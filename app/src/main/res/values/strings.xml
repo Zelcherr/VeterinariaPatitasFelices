@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VeterinariaPatitasFelices</string>
+    <string name="txt_Bienevenido">Ingrese los datos de la Mascota :)</string>
+    <string name="btn_editar">es un boton</string>
+    <string name="btn_eliminar">es un boton</string>
+    <string name="btn_atras">es un boton</string>
+    <string name="btn_insertar">es un boton</string>
+    <string name="button">es un boton</string>
+    <string name="imageView">es una imagen</string>
+</resources>
